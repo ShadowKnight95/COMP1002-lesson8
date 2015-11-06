@@ -37,3 +37,13 @@ h6 {
 p {
 	line-height: 1.3em;
 }
+
+.firstword {
+	font-style: italic;
+	font-weight: bold;
+	color: blue;
+}
+
+main {
+	background-color: lightgrey;
+}
